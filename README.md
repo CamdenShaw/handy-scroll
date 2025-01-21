@@ -1,3 +1,5 @@
+Forked due to an inability to offset the bottom if other sticky items are present at the bottom of the page / viewport.
+
 # handy-scroll
 
 Handy dependency-free floating scrollbar web component.
