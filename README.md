@@ -1,4 +1,5 @@
 Forked from [Amphiluke](https://github.com/Amphiluke) to try to add the ability to offset the bottom if other sticky items are present at the bottom of the page / viewport.
+[original repo](https://github.com/Amphiluke/handy-scroll)
 
 # handy-scroll
 
